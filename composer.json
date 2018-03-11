@@ -1,0 +1,26 @@
+{
+    "name": "qblrik/nbrb-exchange",
+    "description": "Парсер курсов валют Национального банка Республики Беларусь.",
+    "homepage": "https://github.com/qblrik/nbrb-exchange",
+    "license": "Unlicense",
+    "keywords": [
+        "php", "requests", "web service", "xml"
+    ],
+    "authors": [
+        {
+            "name": "Юрий Блохин"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "ext-curl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "Nbrb\\": "src/Nbrb/"
+        }
+    }
+}
