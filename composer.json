@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Nbrb\\": "src/Nbrb/"
+            "Nbrb\\": "src/"
         }
     }
 }
