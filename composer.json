@@ -1,14 +1,15 @@
 {
-    "name": "qblrik/nbrb-exchange",
-    "description": "Парсер курсов валют Национального банка Республики Беларусь.",
-    "homepage": "https://github.com/qblrik/nbrb-exchange",
+    "name": "yuryblakhin/nbrb-exchange",
+    "description": "Parser of exchange rates of the National Bank of the Republic of Belarus ",
+    "homepage": "https://github.com/yuryblakhin/nbrb-exchange",
     "license": "Unlicense",
     "keywords": [
-        "php", "requests", "web service", "xml"
+        "exchange rates", "currencies", "nbrb"
     ],
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
-            "name": "Юрий Блохин"
+            "name": "Yury Blakhin"
         }
     ],
     "require": {
