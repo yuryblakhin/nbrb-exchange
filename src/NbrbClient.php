@@ -3,7 +3,7 @@
 namespace Nbrb;
 
 
-class Client {
+class NbrbClient {
 
 
     protected $client;
